@@ -26,10 +26,10 @@ public class Question
     private String questionTitle;
     private String option1;
     private String option2;
-    private String optiona3;
+    private String option3;
     private String option4;
     private String rightAnswer;
 //    now we work for difficulty level. In database difficultylevel doesn't have an underscore thus we dont start second word with capital
-    private String difficultylevel;
+    private String difficulty_level;
 
 }
